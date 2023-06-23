@@ -1,0 +1,5 @@
+fastapi==0.98.0
+mysql-connector-python-rf==2.2.2
+pymongo==4.4.0
+python-decouple==3.8
+uvicorn==0.22.0
